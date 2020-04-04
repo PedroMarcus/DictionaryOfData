@@ -1,0 +1,11 @@
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\bin\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.exe
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\bin\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.deps.json
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\bin\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.runtimeconfig.json
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\bin\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.runtimeconfig.dev.json
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\bin\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.dll
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\bin\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.pdb
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\obj\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.csprojAssemblyReference.cache
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\obj\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.AssemblyInfoInputs.cache
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\obj\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.AssemblyInfo.cs
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\obj\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.dll
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.ProcessRoutine\obj\Debug\netcoreapp3.1\Dictionary.ProcessRoutine.pdb

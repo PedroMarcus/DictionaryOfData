@@ -1,0 +1,11 @@
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\bin\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.exe
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\bin\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.deps.json
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\bin\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.runtimeconfig.json
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\bin\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.runtimeconfig.dev.json
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\bin\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.dll
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\bin\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.pdb
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\obj\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.csprojAssemblyReference.cache
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\obj\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.AssemblyInfoInputs.cache
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\obj\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.AssemblyInfo.cs
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\obj\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.dll
+D:\DictionaryOfData_Repo\DictionaryOfData\src\app\DictionaryOfData\Dictionary.AppicationWindowsForms\obj\Debug\netcoreapp3.1\Dictionary.AppicationWindowsForms.pdb
